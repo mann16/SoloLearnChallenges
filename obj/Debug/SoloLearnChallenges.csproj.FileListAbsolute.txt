@@ -1,1 +1,6 @@
 F:\Coding Related\SoloLearnChallenges\SoloLearnChallenges\bin\Debug\SoloLearnChallenges.exe.config
+F:\Coding Related\SoloLearnChallenges\SoloLearnChallenges\obj\Debug\SoloLearnChallenges.csprojResolveAssemblyReference.cache
+F:\Coding Related\SoloLearnChallenges\SoloLearnChallenges\bin\Debug\SoloLearnChallenges.exe
+F:\Coding Related\SoloLearnChallenges\SoloLearnChallenges\bin\Debug\SoloLearnChallenges.pdb
+F:\Coding Related\SoloLearnChallenges\SoloLearnChallenges\obj\Debug\SoloLearnChallenges.exe
+F:\Coding Related\SoloLearnChallenges\SoloLearnChallenges\obj\Debug\SoloLearnChallenges.pdb
